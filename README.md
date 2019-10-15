@@ -1,6 +1,2 @@
-# distributed_19
-
-```
-Nama : Andika Andra
-NRP : 05111640000058
-```
+Nama : Farras Rabbani
+NRP : 0511164000155
